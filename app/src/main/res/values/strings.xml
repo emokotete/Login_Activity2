@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login_Activity</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="str_button_next">Next</string>
+    <string name="str_button_cancel">Cancel</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_text">Welcome To Zuri Training</string>
+</resources>
